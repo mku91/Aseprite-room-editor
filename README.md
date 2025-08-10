@@ -23,3 +23,18 @@ Converted to:
   ]
 }
 ```
+
+## Instalation:
+
+1. Open Aseprite
+2. File -> Scripts -> Open Scripts Folder
+3. In the window that opens, paste the file room-editor.lua
+4. Return to Aseprite
+5. File -> Scripts -> Rescan Scripts Folder
+
+## How to use:
+
+1. Draw your image
+2. File -> Scripts -> room-editor
+3. Click "Copy"
+4. Paste data in your text editor
